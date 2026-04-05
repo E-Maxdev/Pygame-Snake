@@ -1,0 +1,11 @@
+from color import *
+
+WIDTH = 1000
+HEIGHT = 1000
+
+GRID_SIZE = 16
+
+# TileType Colors
+EMPTY_COLOR = OLIVE
+SNAKE_COLOR = CORAL
+FOOD_COLOR = CRIMSON
